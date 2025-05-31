@@ -1,6 +1,8 @@
 # 🧠 CamVid Segmentation Demonstration
+![image](https://github.com/user-attachments/assets/cb6a6a83-05fe-48a2-9084-9838aa4cd0cc)
 
-This repository contains practical assignments and projects developed as part of the Deep Learning course during the 5th semester. It includes implementations of deep learning models using PyTorch for tasks such as semantic segmentation.
+
+This repository includes implementations of deep learning models using PyTorch for tasks such as semantic segmentation on CamVid data, an approach to segment streets and  other driving necessities on the road, useful for self-driving vehicles, and automobile intelligence.
 
 ## 📂 Contents
 
